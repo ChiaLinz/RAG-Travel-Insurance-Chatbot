@@ -1,0 +1,7 @@
+{
+  "version": "v1.0",
+  "date": "2026-01-28 22:34:15",
+  "notes": "Improved chunking",
+  "num_chunks": 152,
+  "embedding_model": "text-embedding-3-large"
+}

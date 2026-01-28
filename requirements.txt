@@ -1,0 +1,10 @@
+openai
+faiss-cpu
+numpy
+tiktoken
+PyPDF2
+python-dotenv
+jieba
+PyMuPDF
+jieba
+scikit-learn
