@@ -8,3 +8,4 @@ jieba
 PyMuPDF
 jieba
 scikit-learn
+rank-bm25
